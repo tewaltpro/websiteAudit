@@ -1,0 +1,4 @@
+ChatGPT, https://chatgpt.com/
+Hacker News, https://news.ycombinator.com/
+Amazon, https://www.amazon.com/
+Example, https://www.example.com/ 
